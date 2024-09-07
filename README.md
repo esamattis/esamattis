@@ -1,7 +1,6 @@
 
 Here's some relevant open-source repositories that I've created or contributed to:
 
-
 -  [libgotftp](https://github.com/tftp-go-team/libgotftp) and [hooktftp](https://github.com/tftp-go-team/hooktftp)
     - Hook based TFTP server used for booting LTSP thin clients
     - Initially I created this project just to learn Go by porting [puavo-tftp](https://github.com/opinsys/puavo-tftp)
@@ -36,5 +35,6 @@ Here's some relevant open-source repositories that I've created or contributed t
     - Used by hyppykeli
 
 
+For my work history check out my [LinkedIn profile](https://www.linkedin.com/in/esamatti/).
 
 Also checkout the pinned repositories below 👇
