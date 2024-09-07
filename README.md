@@ -2,7 +2,7 @@
 Here's some relevant open-source repositories that I've created or contributed to:
 
 
--  [libgotftp](https://github.com/tftp-go-team/libgotftp) and [tftp-go-team/hooktftp](https://github.com/tftp-go-team/hooktftp)
+-  [libgotftp](https://github.com/tftp-go-team/libgotftp) and [hooktftp](https://github.com/tftp-go-team/hooktftp)
     - Hook based TFTP server used for booting LTSP thin clients
     - Initially I created this project just to learn Go by porting [puavo-tftp](https://github.com/opinsys/puavo-tftp)
 - Rust projects
