@@ -16,7 +16,7 @@ Here's some relevant open-source repositories that I've created or contributed t
     - [wp-graphql-cache](https://github.com/valu-digital/wp-graphql-cache)
     - [wp-graphql-lock](https://github.com/valu-digital/wp-graphql-lock)
 - [Findkit UI](https://github.com/findkit/findkit/)
-    - The open-source UI library used by [findkit.com]() customers
+    - The open-source UI library used by [findkit.com](https://www.findkit.com/) customers
     - The documentation is live [here](https://docs.findkit.com/ui/)
     - Preact and TypeScript. Tested with Playwright.
 - [underscore.string](https://github.com/esamattis/underscore.string)
