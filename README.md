@@ -5,7 +5,7 @@ Here's some relevant open-source repositories that I've created or contributed t
     - Hook based TFTP server used for booting LTSP thin clients
     - Initially I created this project just to learn Go by porting [puavo-tftp](https://github.com/opinsys/puavo-tftp)
 - Rust projects
-    - [rt](https://github.com/esamattis/rt) – Instant ZSH autocompleter for various task runners
+    - [rt](https://github.com/esamattis/rt) – Instant ZSH autocompleter for npm package.json scripts and other task runners
         - I personally use this daily 😁
     - [multip](https://github.com/esamattis/multip) – Multiprocess init for containers with zombie process reaping etc.
 - WPGraphQL ecosystem contributions (PHP, WordPress)
