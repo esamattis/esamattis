@@ -6,7 +6,7 @@ Here's some relevant open-source repositories that I've created or contributed t
     - Hook based TFTP server used for booting LTSP thin clients
     - Initially I created this project just to learn Go by porting [puavo-tftp](https://github.com/opinsys/puavo-tftp)
 - Rust projects
-    - [rt](https://github.com/esamattis/rt) – Instant autocompleter for various task runners
+    - [rt](https://github.com/esamattis/rt) – Instant ZSH autocompleter for various task runners
         - I personally use this daily 😁
     - [multip](https://github.com/esamattis/multip) – Multiprocess init for containers with zombie process reaping etc.
 - WPGraphQL ecosystem contributions (PHP, WordPress)
@@ -23,7 +23,7 @@ Here's some relevant open-source repositories that I've created or contributed t
     - Underscore.js extension
     - One of my earliest open-source projects, released in 2010.
     - Still gets almost 2M downloads per week on npm 🤯
-- [hyppykeli](https://github.com/esamattis/hyppykeli)
+- [Hyppykeli](https://github.com/esamattis/hyppykeli)
     - Weather forecast and observations service used by most skydivers in Finland
     - Live at https://hyppykeli.fi/
     - Fully client-side app without any backend
