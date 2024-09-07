@@ -1,5 +1,5 @@
 
-Here's some relevant open-source repositories that I've created or contributed to:
+Here's some relevant open-source repositories I've created or contributed to:
 
 -  [libgotftp](https://github.com/tftp-go-team/libgotftp) and [hooktftp](https://github.com/tftp-go-team/hooktftp)
     - Hook based TFTP server used for booting LTSP thin clients
