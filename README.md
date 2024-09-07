@@ -29,6 +29,10 @@ Here's some relevant open-source repositories that I've created or contributed t
     - Fully client-side app without any backend
     - Uses Preact and JSDoc based TypeScript checking
     - "No build" to avoid dependency and build system rot
+- [metar.js](https://github.com/skydivejkl/metar.js)
+    - Parser for METAR weather reports issued by airports
+    - Eg. parses messages like `EFJY 171950Z AUTO 27006KT 220V310 9999 FEW012 SCT015 BKN060 13/12 Q1006` to JSON
+    - Used by hyppykeli
 
 
 
