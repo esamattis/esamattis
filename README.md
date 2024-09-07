@@ -33,8 +33,8 @@ Here's some relevant open-source repositories that I've created or contributed t
     - Parser for METAR weather reports issued by airports
     - Eg. parses messages like `EFJY 171950Z AUTO 27006KT 220V310 9999 FEW012 SCT015 BKN060 13/12 Q1006` to JSON
     - Used by hyppykeli
+- [React Zorm](https://github.com/esamattis/react-zorm)
+    - TypeScript form library for React with full type safety
 
 
 For my work history check out my [LinkedIn profile](https://www.linkedin.com/in/esamatti/).
-
-Also checkout the pinned repositories below 👇
