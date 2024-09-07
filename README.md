@@ -19,7 +19,7 @@ Here's some relevant open-source repositories that I've created or contributed t
     - [wp-graphql-lock](https://github.com/valu-digital/wp-graphql-lock)
 - [underscore.string](https://github.com/esamattis/underscore.string)
     - Underscore.js extension
-    - One my earliest open-source projects, released in 2010.
+    - One of my earliest open-source projects, released in 2010.
     - Still gets almost 2M downloads per week on npm 🤯
 - [Findkit UI](https://github.com/findkit/findkit/)
     - The open-source UI library used by [findkit.com]() customers
@@ -30,6 +30,7 @@ Here's some relevant open-source repositories that I've created or contributed t
     - Live at https://hyppykeli.fi/
     - Fully client-side app without any backend
     - Uses Preact and JSDoc based TypeScript checking
+    - "No build" to avoid dependency and build system rot
 
 
 
