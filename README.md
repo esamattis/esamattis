@@ -1,3 +1,4 @@
+Need to send a private message to me? Use the contact form [here](https://esamatti.fi/).
 
 Here's some relevant open-source repositories I've created or contributed to:
 
